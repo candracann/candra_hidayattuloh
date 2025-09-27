@@ -49,7 +49,7 @@ Sistem reservasi bioskop online dengan **skema normalisasi database** dan **mana
 ## Contact  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/candra-hidayattuloh)  
 [![Email](https://img.shields.io/badge/-candra.hidayattuloh27%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:candra.hidayattuloh27@gmail.com)  
-[![No.HP](081316601433).
+[![WhatsApp](https://img.shields.io/badge/-081316601433-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/6281316601433)  
 
 **Download CV:** [belum buat](https://)  
 
