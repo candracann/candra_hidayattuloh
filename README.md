@@ -4,7 +4,6 @@ Aspiring Software Engineer • fokus pada Computer Vision & Software Engineering
 Sedang mencari internship di bidang **Computer Vision, Machine Learning, atau frontend Development**.  
 Saya tertarik membangun solusi praktis menggunakan AI, database, dan sistem terdistribusi.  
 
----
 
 ## Tech & Tools  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -30,7 +29,6 @@ Computer vision pipeline menggunakan **YOLOv8/YOLOv10/YOLOv12** untuk mendeteksi
 - Pipeline mencakup preprocessing, training, evaluasi, dan inferensi real-time  
 - Repo: [Bottle Defect Detection](https://github.com/candra_hidayattuloh/bottle-defect-detection)  
 
----
 
 ### Cinema Reservation System — `cinema-reservation`  
 Sistem reservasi bioskop online dengan **skema normalisasi database** dan **manajemen kursi**.  
