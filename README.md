@@ -5,7 +5,7 @@ Sedang mencari internship di bidang **Computer Vision, Machine Learning, atau fr
 Saya tertarik membangun solusi praktis menggunakan AI, database, dan sistem terdistribusi.  
 
 
-## Tech & Tools  
+Tech & Tools  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=flat&logo=opencv&logoColor=black)
