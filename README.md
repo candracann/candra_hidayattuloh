@@ -42,6 +42,6 @@ Sistem reservasi bioskop online dengan **skema normalisasi database** dan **mana
 [![Email](https://img.shields.io/badge/-candra.hidayattuloh27%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:candra.hidayattuloh27@gmail.com)  
 [![WhatsApp](https://img.shields.io/badge/-081316601433-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/6281316601433)  
 
-**Download CV:** [belum buat](https://)  
+**Download CV:** ([https://](https://www.canva.com/design/DAG0jEDSJHU/L6oOn2mStBpfunA4_xAlpg/edit?utm_content=DAG0jEDSJHU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))  
 
 *Thanks for visiting my profile! Feel free to hit me up :) *
